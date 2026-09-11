@@ -1,12 +1,12 @@
-import { Navbar } from './Navbar'
-import "./style.css";
+import { Footer } from './Footer';
 
 function App() {
   return (
     <div>
-      <Navbar />
+      {/* Any existing content */}
+      <Footer />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
